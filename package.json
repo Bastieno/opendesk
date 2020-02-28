@@ -1,0 +1,23 @@
+{
+  "name": "opendesk",
+  "version": "1.0.0",
+  "description": "A Nextjs Website for Opendesk Consult",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Francis Nduamaka",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-source-maps": "0.0.3",
+    "framer-motion": "^1.8.4",
+    "next": "^9.2.2",
+    "node-sass": "^4.13.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
