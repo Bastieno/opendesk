@@ -1,11 +1,10 @@
 import React from 'react';
+import FullPageExample from '../components/FullPageExample';
 
-const index = () => {
-  return (
-    <div>
-      <p>Hello Opendesk Consult</p>
-    </div>
-  )
-}
+const index = () => (
+  <div>
+    <FullPageExample />
+  </div>
+);
 
 export default index;
